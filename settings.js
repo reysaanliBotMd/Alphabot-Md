@@ -24,9 +24,9 @@ global.language = english  //change indonesia to english if you don't understand
 
 // Other
 global.botname = "Chika-Mdོ" //namabot kalian
-global.ownername= "Reza Tamvan" //nama kalian
+global.ownername= "レザマスター " //nama kalian
 global.myweb ="https://api.Ikymd.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/RezaXd" //bebas asal jan hapus
 global.github = "https://Ikym.github.io/" //bebas
 global.email = "Chikabot22@gmail.com" //bebas
 global.region = "Indonesia" //bebas
@@ -39,7 +39,7 @@ global.donasi = "./image/lol.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
 global.packname = '© Chika-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh Reza Tamvan' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh レザマスター ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
