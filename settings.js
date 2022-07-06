@@ -23,17 +23,17 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "Chika-Mdོ" //namabot kalian
+global.botname = "ᴅᴀɴɪʙᴏᴛᴢ ᴏғғᴄ👑" //namabot kalian
 global.ownername= "ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑" //nama kalian
 global.myweb ="https://api.Ikymd.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/RezaXd" //bebas asal jan hapus
 global.github = "https://Ikym.github.io/" //bebas
-global.email = "Chikabot22@gmail.com" //bebas
+global.email = "danibotz691@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.owner = ["6285691686671"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285691686671" // nomor wa kalian
-global.ownernomerr = "+6285691686671" //nmr wa kalian
+global.owner = ["6281251549899"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6281251549899" // nomor wa kalian
+global.ownernomerr = "+6281251549899" //nmr wa kalian
 global.thumbnail = "./image/d2917e648c6a030b1980d1755c66492a.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/d2917e648c6a030b1980d1755c66492a.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
