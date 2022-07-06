@@ -24,7 +24,7 @@ global.language = english  //change indonesia to english if you don't understand
 
 // Other
 global.botname = "Chika-Mdོ" //namabot kalian
-global.ownername= "レザマスター " //nama kalian
+global.ownername= "ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑" //nama kalian
 global.myweb ="https://api.Ikymd.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/RezaXd" //bebas asal jan hapus
 global.github = "https://Ikym.github.io/" //bebas
@@ -39,7 +39,7 @@ global.donasi = "./image/d2917e648c6a030b1980d1755c66492a.jpg" // foto donasi di
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
 global.packname = '© Chika-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh レザマスター ' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -50,10 +50,10 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done, Oke Bang~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
+    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑 !',
     group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
