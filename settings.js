@@ -25,8 +25,8 @@ global.language = english  //change indonesia to english if you don't understand
 // Other
 global.botname = "ᴅᴀɴɪʙᴏᴛᴢ ᴏғғᴄ👑" //namabot kalian
 global.ownername= "ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑" //nama kalian
-global.myweb ="https://api.Ikymd.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/RezaXd" //bebas asal jan hapus
+global.myweb ="https://api.Dani.xyz" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg" //bebas asal jan hapus
 global.github = "https://Ikym.github.io/" //bebas
 global.email = "danibotz691@gmail.com" //bebas
 global.region = "Indonesia" //bebas
