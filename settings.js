@@ -38,7 +38,7 @@ global.thumbnail = "./image/d2917e648c6a030b1980d1755c66492a.jpg" // ini lol.jpg
 global.donasi = "./image/d2917e648c6a030b1980d1755c66492a.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© Chika-Mdོ' //sticker wm ubah
+global.packname = '© ᴅᴀɴɪʙᴏᴛᴢ ᴏғғᴄ👑' //sticker wm ubah
 global.author = 'Di Buat Oleh ᴅᴀɴɪ ᴏғғɪᴄᴀʟ👑' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
